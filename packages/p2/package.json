@@ -10,5 +10,6 @@
     "@hello.lerna/p1": "^0.0.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "4eba5708a56f8051a53021eb174939b516a8a87e"
 }
