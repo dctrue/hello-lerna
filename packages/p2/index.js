@@ -3,6 +3,6 @@
  */
 export default class p1 {
     constructor () {
-
+        console.log('update')
     }
 }
