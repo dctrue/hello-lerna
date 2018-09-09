@@ -2,5 +2,13 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
+  "changelog": {
+    "repo": "git@github.com:dctrue/hello-lerna.git",
+    "labels": {
+      "tag: bugfix": "Bug fix",
+      "tag: enhancement": "Enhancement"
+    },
+    "cacheDir": ".changelog"
+  }
 }
