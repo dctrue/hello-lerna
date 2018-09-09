@@ -1,5 +1,5 @@
 {
-  "name": "@hello.lerna/p1",
+  "name": "@dctrue/hello.lerna.p1",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "74f34e9416f51bd1ca140c625a65037832a59a59"
+  "gitHead": "2fc35a8664a802ea4414e8b741575e39d400f951"
 }
