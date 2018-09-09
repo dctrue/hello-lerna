@@ -1,13 +1,13 @@
 {
   "name": "@hello.lerna/p2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@hello.lerna/p1": "^0.0.1"
+    "@hello.lerna/p1": "^0.0.2"
   },
   "author": "",
   "license": "ISC",
