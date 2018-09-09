@@ -4,5 +4,22 @@
   "devDependencies": {
     "lerna": "^3.3.0",
     "lerna-changelog": "^0.8.0"
-  }
+  },
+  "description": "## first",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dctrue/hello-lerna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dctrue/hello-lerna/issues"
+  },
+  "homepage": "https://github.com/dctrue/hello-lerna#readme"
 }

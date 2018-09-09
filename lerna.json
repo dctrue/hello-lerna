@@ -4,7 +4,7 @@
   ],
   "version": "independent",
   "changelog": {
-    "repo": "git@github.com:dctrue/hello-lerna.git",
+    "repo": "git@github.comdctrue/hello-lerna.git",
     "labels": {
       "tag: bugfix": "Bug fix",
       "tag: enhancement": "Enhancement"

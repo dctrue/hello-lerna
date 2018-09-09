@@ -3,6 +3,6 @@
  */
 export default class p1 {
     constructor () {
-        console.log('hello lerna')
+        console.log('hello lerna fix bug')
     }
 }
